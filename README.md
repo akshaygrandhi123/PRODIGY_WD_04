@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Additional Files
 
-- `PHPMailer/`: This directory contains the PHPMailer library files for sending emails.
+- `PHPMailer`: This directory contains the PHPMailer library files for sending emails.
 - `LICENSE`: The license file for the PHPMailer library.
 - `README.md`: The README file for the PHPMailer library.
 - `security.txt`: The security information file for the PHPMailer library.
